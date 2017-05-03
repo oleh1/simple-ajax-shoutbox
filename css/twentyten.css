@@ -1,0 +1,28 @@
+﻿.sb_rss_link,
+.sb_twitter_link {
+	height: 2.3ex;
+}
+
+.Ajax_Shoutbox_Widget .icons .spinner {
+	background-size: 2.4ex 2.4ex;
+	width: 2.42ex;
+	height: 2.6ex;
+	margin-top: 1px;
+}
+
+.sb_message_header .avatar {
+	margin-bottom: 0.3ex;
+}
+
+#sb_form .resizable .ui-resizable-s {
+	right: 0;
+	bottom: 0;
+}
+
+.Ajax_Shoutbox_Widget form .spinner {
+	margin-top: 0.4ex;
+}
+
+.Ajax_Shoutbox_Widget form .confirm {
+	margin-top: 0.8ex;
+}

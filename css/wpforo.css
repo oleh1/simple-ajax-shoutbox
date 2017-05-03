@@ -1,0 +1,51 @@
+#wpforo-wrap #sb_messages {
+	padding: 2px;
+	margin-bottom: 0.25em;
+}
+
+#wpforo-wrap .sb_message {
+	clear: left;
+	margin-bottom: 1ex;
+}
+
+#wpforo-wrap .sb_message_header .avatar {
+	display: inline-block;
+	border: 1px solid lightgray;
+	margin-right: 0.5em;
+	margin-top: 0.5ex;
+}
+
+#wpforo-wrap .sb_message_header .menu {
+	display: none;
+	border: 1px solid black;
+	padding: 0.3ex 0.7em;
+	color: black;
+}
+
+#wpforo-wrap .sb_message_header:hover .menu,
+#wpforo-wrap .sb_message_header .menu:hover {
+	display: block;
+}
+
+#wpforo-wrap .sb_message_header .menu .command {
+	font-size: inherit;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-bottom: 1px;
+	margin-top: 1px;
+}
+
+#wpforo-wrap .sb_message_header .info {
+	margin-top: -0.4ex;
+	display: block;
+}
+
+#wpforo-wrap .sb_message_header .menu .info {
+	display: block;
+	padding: 2px 0 2px 18px;
+}
+
+#wpforo-wrap .Ajax_Shoutbox_Widget .button {
+	padding: 0 10px 1px;
+}
+

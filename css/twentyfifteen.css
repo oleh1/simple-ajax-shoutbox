@@ -1,0 +1,14 @@
+﻿#sb_form .resizable .ui-resizable-s {
+	background-image: url("data:image/svg+xml;utf,<svg viewBox='0 0 8 8' xmlns='http://www.w3.org/2000/svg'><g style='stroke:rgba(51,51,51,0.4);stroke-width:1'><line x1='0' y1='8' x2='8' y2='0' /><line x1='4' y1='8' x2='8' y2='4' /></g></svg>");
+}
+
+.Ajax_Shoutbox_Widget form .spinner,
+.Ajax_Shoutbox_Widget form .confirm {
+	margin-top: 0.3ex;
+}
+
+@media screen and (min-width: 59.6875em) {
+	.Ajax_Shoutbox_Widget .icons {
+		margin-right: 20%;
+	}
+}

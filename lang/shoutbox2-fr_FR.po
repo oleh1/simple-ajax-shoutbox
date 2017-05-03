@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShoutBox 2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/shoutbox2\n"
+"POT-Creation-Date: 2011-10-10 08:50+0000\n"
+"PO-Revision-Date: 2009-10-10 08:55+0000\n"
+"Last-Translator: Honza Skýpala <honza@honza.info>\n"
+"Language-Team: Honza Skýpala <honza@honza.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Frenh\n"
+"X-Poedit-Country: FRANCE\n"
+"Plural-Forms: nplurals=3; plural=n>=2 && n<=4 ? 1 : n==1 ? 0 : 2;\n"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Only registered user allowed"
+msgstr "Réservé aux utilisateurs autorisés"
+
+msgid "Smilies"
+msgstr "Emoticones"
+
+msgid "Shoutbox RSS channel"
+msgstr "Flux RSS de la shoutbox"
+
+msgid "Update of chat failed; will try again shortly"
+msgstr "Echec de la mise a jour du tchat; réessayez plus tard"
+
+msgid "Max messages in shoutbox:"
+msgstr "Nombre de messages maxi de la boite:"
+
+msgid "Reload time in seconds:"
+msgstr "fréquence de rechargement en secondes:"
+
+msgid "Only registered user allowed."
+msgstr "Réservé aux utilisateurs autorisés."
+
+msgid "By enabling this submitted URLs will become clickable."
+msgstr "La validation de cette URL la rendra cliquable."
+
+msgid "Check using Akismet, may degrades process time."
+msgstr "Controlé par Askimet, peut diminuer les perfromances."
+
+msgid "Unknown referrer."
+msgstr "Provenance inconnue."
+
+msgid "Name already exists, please choose another."
+msgstr "Nom existant, choisissez en un autre SVP."
+
+msgid "Name empty."
+msgstr "Nom vide."
+
+msgid "Message empty."
+msgstr "Message vide."
+
+msgid "Blocked by Akismet."
+msgstr "Bloqué par Askimet."
+
+msgid "Please try again after a few seconds."
+msgstr "Réessayez dans quelques secondes SVP."
+
+msgid "Database insert failure. Try reinstall plugin."
+msgstr "Echec a l'insertion en base de données. Essayez de réinstaller le plugin."
+
+msgid "IP address"
+msgstr "Adresse IP"
+
+msgid "No messages."
+msgstr "Pas de message."
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "[delete]"
+msgstr "[supprime]"
+
+msgid "Delete this message?"
+msgstr "Supprimer ce message ?"
+
+msgid "%blogname% chat"
+msgstr "%blogname% tchat"
+
+msgid "Message from %username% | %blogname% chat"
+msgstr "Message de %username% | %blogname% tchat"
+
+msgid "Display link to RSS channel containing shoutbox messages."
+msgstr "Afficher le lien vers le flux RSS contenant les messages de la shoutbox"
+
+msgid "Max length of message is %maxlength% characters, length of your message is %length% characters. Please shorten it."
+msgstr "La longueur maximale de message est de %maxlength% caracteres, la longueur de votre message est de %length% caracteres. Réduisez SVP."
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Sound on new message"
+msgstr "Son pour les nouveaux messages"
+
+msgid "Newest message at bottom."
+msgstr "Nouveau message en bas"
